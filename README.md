@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
   </a>
   <a href="https://www.tiktok.com/@victorytheanalyst?_t=ZM-8xWtEtCT08T&_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tutanota&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="tutanota logo"  />
+    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo"  />
   </a>
 </div>
 
