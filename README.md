@@ -30,7 +30,7 @@
 
 ## 🎯 Mission
 
-My mission as a data analyst is to transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges. With a strong foundation in **Banking and Finance**, I aim to bridge the gap between data and strategic financial outcomes leveraging advanced analytics tools to uncover patterns, monitor performance, optimize operations, and support evidence-based planning across sectors, especially within financial services. I’m committed to continuous learning and collaboration, delivering value by combining domain knowledge with analytical precision.
+Transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges. With a strong foundation in **Banking and Finance**, I aim to bridge the gap between data and strategic financial outcomes leveraging advanced analytics tools to uncover patterns, monitor performance, optimize operations, and support evidence-based planning across sectors, especially within financial services. I’m committed to continuous learning and collaboration, delivering value by combining domain knowledge with analytical precision.
 
 ---
 
@@ -46,5 +46,4 @@ I am **Nnajekwu Chinemerem Victory**, a data analyst with a background in **Bank
 
 ---
 
-I am focused on helping organizations unlock the full value of their data while seeking opportunities to grow, contribute, and make a measurable impact through analytics.
 
