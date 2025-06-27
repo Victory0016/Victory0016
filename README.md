@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo"  />
   </a>
 </div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]
 ###
 
 ## 🎯 Mission
