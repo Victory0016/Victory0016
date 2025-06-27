@@ -27,3 +27,24 @@
 </div>
 
 ###
+
+## 🎯 Mission
+
+My mission as a data analyst is to transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges. With a strong foundation in **Banking and Finance**, I aim to bridge the gap between data and strategic financial outcomes — leveraging advanced analytics tools to uncover patterns, monitor performance, optimize operations, and support evidence-based planning across sectors, especially within financial services. I’m committed to continuous learning and collaboration, delivering value by combining domain knowledge with analytical precision.
+
+---
+
+## 👤 About Me
+
+I am **Nnajekwu Chinemerem Victory**, a data analyst with a background in **Banking and Finance** and a passion for leveraging data to solve complex business problems. I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that impact growth and performance.
+
+### 🛠 Tools & Technologies I Use:
+- **Microsoft Excel** – for data cleaning, financial modeling, dashboards, and scenario analysis  
+- **Power BI** – for building interactive dashboards and monitoring KPIs  
+- **Tableau** – for intuitive visual storytelling and business insight generation  
+- **SQL** – for querying, filtering, and transforming data from large relational databases
+
+---
+
+I am focused on helping organizations unlock the full value of their data while seeking opportunities to grow, contribute, and make a measurable impact through analytics.
+
