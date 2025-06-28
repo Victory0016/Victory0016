@@ -51,7 +51,7 @@ I am **Nnajekwu  Victory**, a data analyst with a background in **Banking and Fi
 
 ###
 ##Contact Me 
-##<p align="center">Contact Me</p>
+<p align="center">Contact Me</p>
 
 ###
 <div align="left">
