@@ -42,6 +42,12 @@ I am **Nnajekwu  Victory**, a data analyst with a background in **Banking and Fi
 - **Tableau**  
 - **SQL** 
 <div align="left">
+  <img src="https://img.icons8.com/?size=96&id=117561&format=png" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
@@ -71,5 +77,3 @@ I am **Nnajekwu  Victory**, a data analyst with a background in **Banking and Fi
 </div>
 
 ###
-
-
