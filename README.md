@@ -50,13 +50,9 @@ I am **Nnajekwu  Victory**, a data analyst with a background in **Banking and Fi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
 ###
-
-<p align="center">📩Feel Free to connect or reach out let`s explore how we can create impact through data.</p>
-
+<p align="center">Contact Me</p>
 ###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   <a href="Wa.me/+2349071369110" target="_blank">
