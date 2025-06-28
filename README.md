@@ -51,7 +51,6 @@ I am **Nnajekwu  Victory**, a data analyst with a background in **Banking and Fi
 
 ###
 ##Contact Me
-
 ###
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
