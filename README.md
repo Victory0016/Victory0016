@@ -1,75 +1,90 @@
 <h2 align="left">Hi 👋! My name is Nnajekwu Victory and I'm a Data Analyst.</h2>
 
-###
+---
 
 <div align="left">
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  <a href="Wa.me/+2349071369110" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="nnajekwuchinemerem@gmail.com" target="_blank">
+  <a href="https://wa.me/2349071369110" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:nnajekwuchinemerem@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://x.com/vking9727?t=LcUZdHyO7SQFIQAji0O8Vw&s=09" target="_blank">
+  <a href="https://x.com/vking9727" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
   <a href="https://www.facebook.com/starboy.eze.33" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.tiktok.com/@victorytheanalyst?_t=ZM-8xWtEtCT08T&_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo"  />
+  <a href="https://www.tiktok.com/@victorytheanalyst" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo"  />
   </a>
 </div>
+
+---
 
 ## 🎯 Mission
 
-Transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges. With a strong foundation in **Banking and Finance**, I aim to bridge the gap between data and strategic financial outcomes leveraging advanced analytics tools to uncover patterns, monitor performance, optimize operations, and support evidence-based planning across sectors, especially within financial services. I’m committed to continuous learning and collaboration, delivering value by combining domain knowledge with analytical precision.
+Transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges.  
+With a strong foundation in **Banking and Finance**, I aim to bridge the gap between data and strategic financial outcomes by leveraging advanced analytics tools to:
+
+- Uncover patterns  
+- Monitor performance  
+- Optimize operations  
+- Support evidence-based planning  
+
+Especially across the **financial services** industry.  
+I’m committed to continuous learning, collaboration, and delivering value through data.
+
+---
 
 ## 👤 About Me
 
-I am **Nnajekwu  Victory**, a data analyst with a background in **Banking and Finance** and a passion for leveraging data to solve complex business problems. I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that impact growth and performance.
+I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Finance** and a passion for solving business problems through data.  
+I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that promote growth and operational excellence.
 
-## 🛠 Data Analytics Tools:
-- **Microsoft Excel**  
-- **Power BI**   
-- **Tableau**  
-- **SQL** 
+---
+
+## 🛠️ Tools & Technologies I Use
+
 <div align="left">
-  <img src="https://icons8.com/icon/117561/microsoft-excel-2019" height="40" alt="Excel logo"  />
-  <img width="12" />
-  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" height="40" alt=" Power BI logo"  />
-  <img width="12" />
-  <img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" height="40" alt="Tableau logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-###
-<p align="center">Contact Me</p>
+---
 
-###
+## 📬 Contact Me
+
+Let’s connect! Feel free to reach out through any of the platforms below:
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  <a href="Wa.me/+2349071369110" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo" />
   </a>
-  <a href="nnajekwuchinemerem@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  <a href="https://wa.me/2349071369110" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo" />
   </a>
-  <a href="https://x.com/vking9727?t=LcUZdHyO7SQFIQAji0O8Vw&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+  <a href="mailto:nnajekwuchinemerem@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://x.com/vking9727" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
   </a>
   <a href="https://www.facebook.com/starboy.eze.33" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo" />
   </a>
-  <a href="https://www.tiktok.com/@victorytheanalyst?_t=ZM-8xWtEtCT08T&_r=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiktok&logo=tutanota&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="Tiktok logo"  />
+  <a href="https://www.tiktok.com/@victorytheanalyst" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo" />
   </a>
 </div>
 
-###
+
+
