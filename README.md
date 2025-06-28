@@ -35,7 +35,7 @@ Transform raw data into clear, actionable insights that drive informed decision-
 I am **Nnajekwu  Victory**, a data analyst with a background in **Banking and Finance** and a passion for leveraging data to solve complex business problems. I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that impact growth and performance.
 
 ### 🛠 Data Analytics Tools:
-
+#
 - **Microsoft Excel**  
 - **Power BI**   
 - **Tableau**  
