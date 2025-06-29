@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nnajekwu Victory and I'm a Data Analyst.</h2>
 
-Test Logo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-
 <div align="left">
   <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -46,6 +43,12 @@ I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Fin
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" height="30" alt="Excel logo"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" height="30" alt="Power BI logo"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg" height="30" alt="Tableau logo"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" height="30" alt="MySQL logo"/>
+
 
 ## 📬 Contact Me
 Let’s connect, Feel free to reach out through any of the platforms below:
