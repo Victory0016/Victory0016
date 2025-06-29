@@ -44,12 +44,6 @@ I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Fin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" height="30" alt="Excel logo"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" height="30" alt="Power BI logo"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg" height="30" alt="Tableau logo"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" height="30" alt="MySQL logo"/>
-
-
 ## 📬 Contact Me
 Let’s connect, Feel free to reach out through any of the platforms below:
 
