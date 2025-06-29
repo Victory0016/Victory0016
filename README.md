@@ -34,13 +34,13 @@ I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Fin
 - *Power BI*   
 - *Tableau*  
 - *MySQL* 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau logo" />
-  <img width="20" />
+  <div align="left">
+  <img src="https://icons8.com/icon/117561/microsoft-excel-2019" height="40" alt="Excel logo"  />
+  <img width="12" />
+  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" height="40" alt=" Power BI logo"  />
+  <img width="12" />
+  <img src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" height="40" alt="Tableau logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
