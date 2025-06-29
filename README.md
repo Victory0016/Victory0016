@@ -23,7 +23,7 @@
 
 ## 🎯 Mission
 
-Transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges. With a strong foundation in *Banking and Finance*, I aim to bridge the gap between data and strategic financial outcomes leveraging advanced analytics tools to uncover patterns, monitor performance, optimize operations, and support evidence-based planning across sectors, especially within financial services. I’m committed to continuous learning and collaboration, delivering value by combining domain knowledge with analytical precision.
+As a Data Analyst with a background in Banking and Finance, I turn raw data into meaningful insights that support smarter decisions and business growth. I simplify complex data, bridge analysis with strategy, and use tools like Excel, Power BI, Tableau, and SQL to uncover trends , track KPIs and optimize operations.
 
 ## 👤 About Me
 
