@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Nnajekwu Victory and I'm a Data Analyst.</h2>
 
----
-
 <div align="left">
   <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -23,31 +21,16 @@
   </a>
 </div>
 
----
-
 ## 🎯 Mission
 
-Transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges.  
-With a strong foundation in **Banking and Finance**, I aim to bridge the gap between data and strategic financial outcomes by leveraging advanced analytics tools to:
-
-- Uncover patterns  
-- Monitor performance  
-- Optimize operations  
-- Support evidence-based planning  
-
-Especially across the **financial services** industry.  
-I’m committed to continuous learning, collaboration, and delivering value through data.
-
----
+Transform raw data into clear, actionable insights that drive informed decision-making and solve real-world business challenges. With a strong foundation in *Banking and Finance*, I aim to bridge the gap between data and strategic financial outcomes leveraging advanced analytics tools to uncover patterns, monitor performance, optimize operations, and support evidence-based planning across sectors, especially within financial services. I’m committed to continuous learning and collaboration, delivering value by combining domain knowledge with analytical precision.
 
 ## 👤 About Me
 
-I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Finance** and a passion for solving business problems through data.  
+I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Finance** and help to solve a complex business problems through data.  
 I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that promote growth and operational excellence.
 
----
-
-## 🛠️ Tools & Technologies I Use
+## 🛠️ Data Analytics Tools I Use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
