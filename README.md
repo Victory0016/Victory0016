@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Nnajekwu Victory and I'm a Data Analyst.</h2>
 
+Test Logo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+
 <div align="left">
   <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
