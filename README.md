@@ -33,7 +33,7 @@ I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Fin
 - *Microsoft Excel*  
 - *Power BI*   
 - *Tableau*  
-- *MYSQL* 
+- *MySQL* 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
   <img width="20" />
