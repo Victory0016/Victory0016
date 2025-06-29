@@ -27,11 +27,13 @@ Transform raw data into clear, actionable insights that drive informed decision-
 
 ## 👤 About Me
 
-I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Finance** and help to solve a complex business problems through data.  
-I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that promote growth and operational excellence.
+I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Finance** and help to solve complex business problems through data. I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that promote growth and operational excellence.
 
-## 🛠️ Data Analytics Tools I Use
-
+## 🛠️ Data Analytics Tools I Use:
+- *Microsoft Excel*  
+- *Power BI*   
+- *Tableau*  
+- *SQL* 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Excel logo" />
   <img width="20" />
@@ -42,11 +44,8 @@ I specialize in collecting, cleaning, analyzing, and visualizing data to support
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
----
-
 ## 📬 Contact Me
-
-Let’s connect! Feel free to reach out through any of the platforms below:
+Let’s connect, Feel free to reach out through any of the platforms below:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
