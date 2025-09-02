@@ -39,8 +39,10 @@ I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Fin
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="MS SQL Server" width="40" height="40"/>
-  <img src="assets/images/ssms.png" alt="SSMS" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/database/000000" alt="Database" width="40" height="40"/>
+  <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Sql-server-management-studio-logo.png" alt="SSMS" width="50" height="50"/>
+</p>
 
 
 </p>
