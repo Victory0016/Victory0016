@@ -38,7 +38,7 @@ I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Fin
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="Microsoft SQL Server" width="40" height="40"/>
 </p>
 
 ## 📬 Contact Me
