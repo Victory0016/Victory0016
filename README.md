@@ -49,43 +49,58 @@ Click on any category to explore all my work, or check out the featured projects
 ---
 
 ### 🟢 Excel Projects  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="25" height="25"/> **View All Excel Projects**](https://github.com/Victory0016?tab=repositories&q=excel&type=&language=&sort=)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="25" height="25"/> **View All Excel Projects**](https://github.com/Victory0016?tab=repositories&q=excel&type=&language=&sort=)
 
-**Featured:**  
-- 📊 [Bank Customer Churn Analysis](https://github.com/Victory0016/Bank-Customer-Churn-Analysis-)  
+<details>
+  <summary>Click to see my featured Excel project</summary>
+
+- 📊 [Bank Customer Churn Analysis](https://github.com/Victory0016/Bank-Customer-Churn-Analysis)  
   ![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoftexcel)  
-  *Analyzed customer churn dataset with PivotTables, KPIs, and dashboards to uncover retention insights.*  
+  *Analyzed customer churn dataset with PivotTables, KPIs, and dashboards to uncover retention insights.*
+
+</details>
 
 ---
 
 ### 🟡 Power BI Projects  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="25" height="25"/> **View All Power BI Projects**](https://github.com/Victory0016?tab=repositories&q=power+bi&type=&language=&sort=)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="25" height="25"/> **View All Power BI Projects**](https://github.com/Victory0016?tab=repositories&q=power+bi&type=&language=&sort=)
 
-**Featured:**  
+<details>
+  <summary>Click to see my featured Power BI project</summary>
+
 - 📈 *Add your first Power BI project here*  
   ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)  
-  *Example: Interactive dashboard tracking sales performance and customer behavior.*  
+  *Example: Interactive dashboard tracking sales performance and customer behavior.*
+
+</details>
 
 ---
 
 ### 🔵 Tableau Projects  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="25" height="25"/> **View All Tableau Projects**](https://github.com/Victory0016?tab=repositories&q=tableau&type=&language=&sort=)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="25" height="25"/> **View All Tableau Projects**](https://github.com/Victory0016?tab=repositories&q=tableau&type=&language=&sort=)
 
-**Featured:**  
+<details>
+  <summary>Click to see my featured Tableau project</summary>
+
 - 📉 *Add your first Tableau project here*  
   ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue?logo=tableau)  
-  *Example: Visualizing regional sales trends with interactive storyboards.*  
+  *Example: Visualizing regional sales trends with interactive storyboards.*
+
+</details>
 
 ---
 
 ### 🔷 SQL Projects  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="25" height="25"/> **View All SQL Projects**](https://github.com/Victory0016?tab=repositories&q=sql&type=&language=&sort=)  
+[<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" width="25" height="25"/> **View All SQL Projects**](https://github.com/Victory0016?tab=repositories&q=sql&type=&language=&sort=)
 
-**Featured:**  
+<details>
+  <summary>Click to see my featured SQL project</summary>
+
 - 🗄️ *Add your first SQL project here*  
   ![SQL](https://img.shields.io/badge/Tool-SQLServer-lightgrey?logo=microsoftsqlserver)  
-  *Example: Querying large datasets to extract KPIs and optimize database performance.*  
+  *Example: Querying large datasets to extract KPIs and optimize database performance.*
 
+</details>
 
 
 ## 📬 Contact Me
