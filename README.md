@@ -33,16 +33,27 @@ I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Fin
 - *Microsoft Excel*  
 - *Power BI*   
 - *Tableau*  
-- *MySQL* 
+- *Microsoft SQL Server (MSSQL) with SSMS.* 
  <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="MS SQL Server" width="40" height="40"/>
-  <img src="assets/images/ssms.png" alt="SSMS" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/database/000000" alt="Database" width="40" height="40"/>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" width="40" height="40"
+  
+</p> 
 
-</p>
+## 📂 My Projects by Tools
+Here are my projects organized by the tools I use.  
+Click on any category to see projects related to that tool:  
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="25" height="25"/> [**Excel Projects**](https://github.com/nnajekwuVictory?tab=repositories&q=excel&type=source)  
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="25" height="25"/> [**Power BI Projects**](https://github.com/nnajekwuVictory?tab=repositories&q=power+bi&type=source)  
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="25" height="25"/> [**Tableau Projects**](https://github.com/nnajekwuVictory?tab=repositories&q=tableau&type=source)  
+
+- <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" width="25" height="25"/> [**SQL Projects**](https://github.com/nnajekwuVictory?tab=repositories&q=sql&type=source)  
+
 
 ## 📬 Contact Me
 Let’s connect, Feel free to reach out through any of the platforms below:
