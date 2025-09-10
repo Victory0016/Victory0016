@@ -23,11 +23,11 @@
 
 ## 🎯 Mission
 
-As a Data Analyst with a background in Banking and Finance, I turn raw data into meaningful insights that support smarter decisions and business growth. I simplify complex data, bridge analysis with strategy, and use tools like Excel, Power BI, Tableau, and SQL to uncover trends , track KPIs and optimize operations.
+As a Data Analyst with a background in Banking and Finance, I transform raw data into meaningful insights that drive smarter decisions and business growth. I simplify complex data, bridge analysis with strategy, and use tools like **Excel, Power BI, Tableau, and SQL** to uncover trends, track KPIs, and optimize operations.
 
 ## 👤 About Me
 
-I am **Nnajekwu Victory**, a data analyst with a background in **Banking and Finance** and help to solve complex business problems through data. I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that promote growth and operational excellence.
+I am **Nnajekwu Victory**, a data analyst passionate about solving complex business problems through data. I specialize in **collecting, cleaning, analyzing, and visualizing data** to enable data-driven decisions that promote growth and operational excellence.
 
 ## 🛠️ Data Analytics Tools I Use:
 - *Microsoft Excel*  
