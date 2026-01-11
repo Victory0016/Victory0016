@@ -13,7 +13,7 @@
   <a href="https://x.com/vking9727" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
     </a>
-  <a href="https://www.tiktok.com/@victorytheanalyst" target="_blank">
+  <a href="https://www.tiktok.com/@victory.the.analyst" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo"  />
   </a>
 </div>
@@ -116,7 +116,7 @@ Let’s connect, Feel free to reach out through any of the platforms below:
   <a href="https://x.com/vking9727" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
     </a>
-  <a href="https://www.tiktok.com/@victorytheanalyst" target="_blank">
+  <a href="https://www.tiktok.com/@victory.the.analyst" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo" />
   </a>
 </div>
