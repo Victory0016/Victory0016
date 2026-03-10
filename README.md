@@ -24,7 +24,7 @@ As a Data Analyst with a background in Banking and Finance, I transform raw data
 
 ## 👤 About Me
 
-I am **Nnajekwu Victory**, a data analyst passionate about solving complex business problems through data. I specialize in **collecting, cleaning, analyzing, and visualizing data** to enable data-driven decisions that promote growth and operational excellence.
+I am **Nnajekwu Chinemerem Victory**, a data analyst passionate about solving complex business problems through data. I specialize in **collecting, cleaning, analyzing, and visualizing data** to enable data-driven decisions that promote growth and operational excellence.
 
 ## 🛠️ Data Analytics Tools I Use:
 - *Microsoft Excel*  
