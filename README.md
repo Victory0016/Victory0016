@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nnajekwu Victory and I'm a Data Analyst.</h2>
+<h2 align="left">Hi 👋! My name is Nnajekwu Chinemerem Victory and I'm a Data Analyst.</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
