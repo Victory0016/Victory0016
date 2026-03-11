@@ -20,7 +20,7 @@
 
 ## 🎯 Mission
 
-As a Data Analyst with a background in Banking and Finance, I transform raw data into meaningful insights that drive smarter decisions and business growth. I simplify complex data, bridge analysis with strategy, and use tools like **Excel, Power BI, Tableau, and SQL** to uncover trends, track KPIs, and optimize operations.
+As a Data Analyst with a background in Banking and Finance, I transform raw data into meaningful insights that drive smarter decisions and business growth. I simplify complex data, bridge analysis with strategy, and use tools like **Excel, Power BI,  and SQL** to uncover trends, track KPIs, and optimize operations.
 
 ## 👤 About Me
 
