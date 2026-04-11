@@ -16,6 +16,9 @@
   <a href="https://www.tiktok.com/@victory.the.analyst" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="tiktok logo"  />
   </a>
+  <a href="https://www.facebook.com/profile.php?id=61576474576158" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo" />
+  </a>
 </div>
 
 ## 🎯 Mission
