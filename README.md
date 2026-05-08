@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nnajekwu Chinemerem Victory and I'm a Data Analyst.</h2>
+<h2 align="left">Hi 👋! My name is Victory Nnajekwu and I'm a Data Analyst.</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
@@ -24,7 +24,7 @@ As a Data Analyst with a background in Banking and Finance, I transform raw data
 
 ## 👤 About Me
 
-I am **Nnajekwu Chinemerem Victory**, a data analyst passionate about solving complex business problems through data. I specialize in **collecting, cleaning, analyzing, and visualizing data** to enable data-driven decisions that promote growth and operational excellence.
+I am **Victory Nnajekwu**, a data analyst passionate about solving complex business problems through data. I specialize in **collecting, cleaning, analyzing, and visualizing data** to enable data-driven decisions that promote growth and operational excellence.
 
 ## 🛠️ Data Analytics Tools I Use:
 - *Microsoft Excel*  
