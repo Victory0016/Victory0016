@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Victory Nnajekwu and I'm a Data Analyst.</h2>
+<h2 align="left">Hi 👋! My name is Nnajekwu Chinemerem Victory and I'm a Data Analyst.</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nnajekwu-victory-2b76a234b" target="_blank">
@@ -7,7 +7,7 @@
   <a href="https://wa.me/2349071369110" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="mailto:victorynnajekwu@gmail.com" target="_blank">
+  <a href="mailto:nnajekwuchinemerem@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
   <a href="https://x.com/vking9727" target="_blank">
@@ -24,7 +24,7 @@ As a Data Analyst with a background in Banking and Finance, I transform raw data
 
 ## 👤 About Me
 
-I am **Victory Nnajekwu**, a data analyst passionate about solving complex business problems through data. I specialize in **collecting, cleaning, analyzing, and visualizing data** to enable data-driven decisions that promote growth and operational excellence.
+I am **Nnajekwu Chinemerem Victory**, a data analyst passionate about solving complex business problems through data. I specialize in **collecting, cleaning, analyzing, and visualizing data** to enable data-driven decisions that promote growth and operational excellence.
 
 ## 🛠️ Data Analytics Tools I Use:
 - *Microsoft Excel*  
